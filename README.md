@@ -1,2 +1,2 @@
 # GeekforGeeks
-repo to store geeksforgeeks.org programs, contestests etc.
+repo to store geeksforgeeks.org programs, contests etc.
